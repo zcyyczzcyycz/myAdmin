@@ -12,8 +12,8 @@
 -----------
 
 ![image](https://github.com/zcyyczzcyycz/myAdmin/blob/master/images/1.png)
-![image](https://github.com/zcyyczzcyycz/myAdmin/blob/master/screenshot/2.png)
-![image](https://github.com/zcyyczzcyycz/myAdmin/blob/master/screenshot/3.png)
-![image](https://github.com/zcyyczzcyycz/myAdmin/blob/master/screenshot/4.png)
-![image](https://github.com/zcyyczzcyycz/myAdmin/blob/master/screenshot/5.png)
-![image](https://github.com/zcyyczzcyycz/myAdmin/blob/master/screenshot/6.png)
+![image](https://github.com/zcyyczzcyycz/myAdmin/blob/master/images/2.png)
+![image](https://github.com/zcyyczzcyycz/myAdmin/blob/master/images/3.png)
+![image](https://github.com/zcyyczzcyycz/myAdmin/blob/master/images/4.png)
+![image](https://github.com/zcyyczzcyycz/myAdmin/blob/master/images/5.png)
+
