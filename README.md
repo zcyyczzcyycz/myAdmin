@@ -11,7 +11,7 @@
 项目截图
 -----------
 
-![image](https://github.com/zcyyczzcyycz/myAdmin/blob/master/screenshot/1.png)
+![image](https://github.com/zcyyczzcyycz/myAdmin/blob/master/images/1.png)
 ![image](https://github.com/zcyyczzcyycz/myAdmin/blob/master/screenshot/2.png)
 ![image](https://github.com/zcyyczzcyycz/myAdmin/blob/master/screenshot/3.png)
 ![image](https://github.com/zcyyczzcyycz/myAdmin/blob/master/screenshot/4.png)
